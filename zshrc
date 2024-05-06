@@ -68,5 +68,10 @@ export LC_ALL=en_US.UTF-8
 export BUNDLER_EDITOR=code
 export EDITOR=code
 
+export BROWSER="/mnt/c/Program Files (x86)/Google/Chrome/Application/chrome.exe"
+export GH_BROWSER="'/mnt/c/Program Files (x86)/Google/Chrome/Application/chrome.exe'"
+export BROWSER="/mnt/c/Program Files (x86)/Google/Chrome/Application/chrome.exe"
+export GH_BROWSER="'/mnt/c/Program Files (x86)/Google/Chrome/Application/chrome.exe'"
+
 # Set ipdb as the default Python debugger
 export PYTHONBREAKPOINT=ipdb.set_trace
